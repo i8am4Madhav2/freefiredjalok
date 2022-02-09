@@ -1,0 +1,9 @@
+var customerid = prompt("Please enter your number ", "<number goes here>");
+
+if (customerName!= null) {
+
+    document.getElementById("welcome").innerHTML =
+
+    "Hello " + customerName + "! enter your password ", "<password goes here>");
+
+}
