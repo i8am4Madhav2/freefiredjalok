@@ -4,6 +4,6 @@ if (customerName!= null) {
 
     document.getElementById("welcome").innerHTML =
 
-    "Hello " + customerName + "! enter your password ", "<password goes here>");
+    "enter your password ", + "!  "<password goes here>");
 
 }
